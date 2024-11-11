@@ -1,0 +1,27 @@
+{
+  "name": "playlist-example",
+  "version": "3.0.0",
+  "description": "a playlist of some songs that Greg likes to demo the Expo AV API.",
+  "author": "expo",
+  "keywords": [
+    "expo",
+    "react-native",
+    "audio",
+    "playlist"
+  ],
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "@react-native-community/slider": "4.5.2",
+    "expo": "~51.0.14",
+    "expo-asset": "~10.0.9",
+    "expo-av": "~14.0.5",
+    "expo-font": "~12.0.7",
+    "expo-updates": "~0.25.17",
+    "react": "18.2.0",
+    "react-native": "0.74.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.0"
+  }
+}
